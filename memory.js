@@ -1,6 +1,7 @@
 'use strict';
 
 const uuid = require('uuid/v4');
+const validate =require('validate');
 
 class Model {
 
